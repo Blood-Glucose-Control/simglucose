@@ -38,4 +38,4 @@ matplotlib
 seaborn
 scipy
 copulas
-
+scikit-learn
