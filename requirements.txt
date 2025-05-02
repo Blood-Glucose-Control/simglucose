@@ -39,3 +39,4 @@ seaborn
 scipy
 copulas
 scikit-learn
+nbformat>=4.2.0 
